@@ -308,7 +308,7 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
-#project_title img {
+#header_wrap img {
  width:175px;
  height:55px;
  border:none;
